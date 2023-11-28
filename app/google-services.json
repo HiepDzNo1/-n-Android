@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062216894272",
+    "project_id": "mydatastory-3c316",
+    "storage_bucket": "mydatastory-3c316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062216894272:android:6dcb59e1304e5be1815ca5",
+        "android_client_info": {
+          "package_name": "com.example.runappstor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvMe-qxDK_WwIOOHrCodXnZ2v0JqXMXDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

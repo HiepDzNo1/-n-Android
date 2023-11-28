@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- toolbar.xml -->
+<!--chưa làm đến-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:background="@color/cardview_dark_background">
+
+    <ImageButton
+        android:id="@+id/buttonBack"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/ic_launcher_background"
+        android:contentDescription="@string/appbar_scrolling_view_behavior" />
+
+    <ImageButton
+        android:id="@+id/buttonSave"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/ic_launcher_background"
+        android:contentDescription="@string/appbar_scrolling_view_behavior" />
+
+    <ImageButton
+        android:id="@+id/buttonHome"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/ic_launcher_background"
+        android:contentDescription="@string/appbar_scrolling_view_behavior" />
+
+    <ImageButton
+        android:id="@+id/buttonProfile"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/ic_launcher_background"
+        android:contentDescription="@string/appbar_scrolling_view_behavior" />
+
+    <ImageButton
+        android:id="@+id/buttonNotification"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/ic_launcher_background"
+        android:contentDescription="@string/appbar_scrolling_view_behavior" />
+
+</LinearLayout>
